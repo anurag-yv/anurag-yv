@@ -16,11 +16,11 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Dark Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: anurag-yv
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          palette: github-dark
+          output: dist/github-contribution-grid-snake-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
