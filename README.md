@@ -69,6 +69,7 @@ Coding for me is like a game 🎮 — solving puzzles, building stuff, and pushi
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anurag-yv/anurag-yv/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/anurag-yv/anurag-yv/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 </div>
+
 
