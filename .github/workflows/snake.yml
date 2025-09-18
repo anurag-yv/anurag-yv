@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: anurag-yv
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color=00FF00&bg_color=121212
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
