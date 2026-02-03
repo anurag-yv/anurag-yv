@@ -95,9 +95,9 @@ Coding for me is like a game 🎮 — solving puzzles, building stuff, and pushi
   <a href="mailto:anuragyadavmzp2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+  <!-- <a href="https://YOUR_PORTFOLIO.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white&style=for-the-badge" />
-  </a>
+  </a> -->
 </p>
 
 ---
